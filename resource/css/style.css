@@ -1,0 +1,23 @@
+.contenedor_targets{
+  margin: 0;
+  padding: 15px;
+  display: flex;
+}
+.contenedor_card{
+  background-color: #f1f1f1;
+  margin:10px;
+  padding:15px;
+  min-width: 50px;
+  max-width: 250px;
+}
+
+.boton-añadir-carrito{
+  background-color: #483c69;
+  padding: 5px;
+  border-radius: 5px;
+  color: #fff;
+}
+h1{
+  color:red;
+  
+}
